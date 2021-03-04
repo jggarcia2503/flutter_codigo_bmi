@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "BMI CALCULATOR GITHUB 2",
+      title: "BMI CALCULATOR",
       theme: ThemeData.dark().copyWith(
         primaryColor: Color(0xff152025),
         scaffoldBackgroundColor: Color(0xff152025),
